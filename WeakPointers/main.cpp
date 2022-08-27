@@ -1,4 +1,3 @@
-// Section 17
 // Weak Pointers
 #include <iostream>
 #include <memory>
